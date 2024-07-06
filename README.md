@@ -25,7 +25,7 @@ Welcome to our Weather Forecasting App, a sleek and modern application built usi
 
 ### Home Screen
 
-![Home Screen](Screenshot 2024-07-06 135235.png)
+![Home Screen]([Screenshot 2024-07-06 135235.png](https://github.com/Alfa-Satapathy/Weather-Application--React-/blob/main/Screenshot%202024-07-06%20135235.png))
 
 
 ## Getting Started
